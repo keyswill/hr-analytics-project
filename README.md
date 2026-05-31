@@ -1,12 +1,12 @@
-# hr-analytics-project
+# HR Analytics Project
 
-# Business Problem
+## Business Problem
 Identify factors driving employee attrition.
 
-# Dataset
+## Dataset
 
-# Tools Used
+## Tools Used
 
-# Key Findings
+## Key Findings
 
-# Recommendations
+## Recommendations
