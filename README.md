@@ -1,6 +1,7 @@
 # hr-analytics-project
 
-# Business Problem: Identify factors driving employee attrition.
+# Business Problem
+Identify factors driving employee attrition.
 
 # Dataset
 
